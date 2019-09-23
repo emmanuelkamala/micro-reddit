@@ -18,5 +18,5 @@ $ rails db:migrate
 ```
 # Collaborators
 
-<a href="https://github.com/emmanuelkamala">Emmanuel Kamala</a>
+<a href="https://github.com/emmanuelkamala">Emmanuel Kamala</a><br>
 <a href="https://github.com/Zibilyonik">Onur Surmeli</a>
