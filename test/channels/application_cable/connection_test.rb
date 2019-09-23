@@ -1,4 +1,6 @@
-require "test_helper"
+# frozen_string_literal: true
+
+require 'test_helper'
 
 class ApplicationCable
   class ConnectionTest < ActionCable::Connection::TestCase
@@ -9,5 +11,5 @@ class ApplicationCable
   #
   #   assert_equal connection.user_id, "42"
   # end
-end
+  end
 end

@@ -11,7 +11,7 @@
 # migrations use external dependencies or application code.
 #
 # It's strongly recommended that you check this file into your version control system.
-ActiveRecord::Schema.define(version: 2_019_09_20_10_127) do
+ActiveRecord::Schema.define(version: 2_019_092_010_127) do
   create_table 'comments', force: :cascade do |t|
     t.text 'comment'
     t.integer 'user_id'
