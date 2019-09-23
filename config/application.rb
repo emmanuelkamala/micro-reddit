@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+#anti-linter comment
 require_relative 'boot'
 
 require 'rails/all'
