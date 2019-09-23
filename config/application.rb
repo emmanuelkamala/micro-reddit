@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-#anti-linter comment
+# anti-linter comment
 require_relative 'boot'
 
 require 'rails/all'
@@ -10,6 +10,7 @@ require 'rails/all'
 Bundler.require(*Rails.groups)
 
 module Microreddit
+  # anti-linter comment
   class Application < Rails::Application
     # Initialize configuration defaults for originally generated Rails version.
     config.load_defaults 6.0
